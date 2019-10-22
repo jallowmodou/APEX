@@ -1,6 +1,6 @@
 ## Overview
 
-This is the code for i integrated using different sources on how to build a Bitcoin startup. I started off using the [tesserect.js](https://github.com/naptha/tesseract.js?ref=devawesome.io) demo repository and added functionality on top of it. This app is still a work in progress. 
+This is the code I integrate using different sources on how to build a Bitcoin startup. I started off using the [tesserect.js](https://github.com/naptha/tesseract.js?ref=devawesome.io) demo repository and added functionality on top of it. This app is still a work in progress. 
 
 ## Dependencies
 - Node.js
